@@ -9,23 +9,23 @@ go to https://www.themoviedb.org/documentation/api to request an api key
 ```
 
 ```
-Starting up the backend:
+Starting up the backend (in terminal):
 
-git clone https://github.com/turingschool-examples/movie-tracker
+$ git clone https://github.com/turingschool-examples/movie-tracker
 
 Rename the movie-tracker directory 'movietracker-backend'
 
-cd into the 'movietracker-backend' directory
+$ cd into the 'movietracker-backend' directory
 
-npm install
+$ npm install
 
-npm start
+$ npm start
 ```
 
 ```
-Starting up the frontend:
+Starting up the frontend (in terminal):
 
-git clone https://github.com/TMcMeans/movietracker-frontend
+$ git clone https://github.com/TMcMeans/movietracker-frontend
 
 cd into the 'movietracker-frontend' directory
 
@@ -34,9 +34,9 @@ create a file in src called apikey.js
 set up file like this:
 export const key = 'your key here'
 
-npm install
+$ npm install
 
-npm start- say yes if asked if you should start the server on a new port
+$ npm start    // say yes if asked if you should start the server on a new port
 ```
 
 ### Project Goals
