@@ -5,7 +5,7 @@ MOVIE TRACKER is a web based application built in React that allows the user to 
 ### Installation and Setup Instructions
 
 ```
-go to https://www.themoviedb.org/documentation/api request an api key
+go to https://www.themoviedb.org/documentation/api to request an api key
 ```
 
 ```
